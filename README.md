@@ -131,10 +131,10 @@ pip install pandas pyperclip pypinyin openpyxl keyboard plyer
 
 ```bash
 # 普通模式（控制台显示状态看板）
-python tcmsp_server.py
+python tcmsp_server_example.py
 
 # 静默模式（纯后台，只通过系统通知交互）
-python tcmsp_server.py --silent
+python tcmsp_server_example.py --silent
 ```
 
 ### 你的工作流变成这样
